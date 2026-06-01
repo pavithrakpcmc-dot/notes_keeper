@@ -1,0 +1,6 @@
+{
+  "name": "Notes Keeper",
+  "description": "A lightweight application to write, save, search, and manage personal notes with simple user authentication and profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
